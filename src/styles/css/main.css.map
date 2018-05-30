@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGA,IAAK;EACH,gBAAgB,EAAE,GAAG;EAErB,YAAQ;IACN,OAAO,EAAE,IAAI;ECPjB,YAAQ;IACN,MAAM,EAAE,gBAAgB;IACxB,SAAS,EAAE,KAAK;IAChB,KAAK,EAAE,GAAG;IACV,MAAM,EAAE,KAAK;IACb,gBAAgB,EAAE,IAAI;ECLxB,iBAAa;IACX,aAAa,EAAE,GAAG;IAClB,QAAQ,EAAE,MAAM;IAChB,MAAM,EAAE,KAAK;IACb,KAAK,EAAE,KAAK",
+"sources": ["../scss/main.scss","../../components/slider/_slider.scss","../../components/profile/_profile.scss"],
+"names": [],
+"file": "main.css"
+}

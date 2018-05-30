@@ -1,0 +1,13 @@
+
+
+
+body {
+  background-color: red;
+
+  .flexer {
+    display: flex;
+  }
+
+  @import '../../components/slider/_slider';
+  @import '../../components/profile/_profile';
+}
